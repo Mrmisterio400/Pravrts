@@ -1,4 +1,5 @@
-avtr_313e69d0-497a-47d3-a51c-37e612f61868 | Rindo Demon
-avtr_264e5d64-0337-49ae-b5ca-5b69dc848ebd | Rindo Dance V15
-avtr_fdc9390d-5588-43bb-8bc3-a463d8851c66 | Rindo Dance V26  Cyra
-avtr_9856798e-3e47-494b-a61f-afbad2b101b9 | Moe Tactic ｜ Reika
+avtr_f32c4810-d386-4409-974c-e322ff29dec1 | Miyu
+avtr_e04bae36-b2cd-49af-851b-8c22a91ac479 | Sena
+avtr_428b59d9-7dea-4d14-8876-39823783379e | Kaira
+avtr_a4dfcfe4-f70e-4284-b5f2-7ae4acc1831a | Raven 
+avtr_2ac39594-f022-4c05-94e7-22d7e48ecf50 | Mei
