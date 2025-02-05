@@ -1,4 +1,3 @@
-avtr_f32c4810-d386-4409-974c-e322ff29dec1 | Miyu
 avtr_e04bae36-b2cd-49af-851b-8c22a91ac479 | Sena
 avtr_428b59d9-7dea-4d14-8876-39823783379e | Kaira
 avtr_a4dfcfe4-f70e-4284-b5f2-7ae4acc1831a | Raven 
